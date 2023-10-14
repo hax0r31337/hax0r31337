@@ -16,7 +16,6 @@ Just a self-taught developer.
  <li>Next.JS</li>
  <li>Jetpack Compose</li>
  <li>JVM Bytecode</li>
- <li>Gin</li>
  <li>UI Design</li>
 </ul>
 </details>
