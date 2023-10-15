@@ -1,5 +1,5 @@
 ## Hey, I'm hax0r31337! 👋
-Just a self-taught developer.   
+A random guy who found it interesting on Software Engineering and Reverse Engineering   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hax0r31337&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
 
 <details>
@@ -9,6 +9,8 @@ Just a self-taught developer.
  <li>Kotlin</li>
  <li>Go</li>
  <li>C++</li>
+ <li>C#</li>
+ <li>JavaScript</li>
  <li>TypeScript</li>
  <li>Lua</li>
  <li>Python3</li>
